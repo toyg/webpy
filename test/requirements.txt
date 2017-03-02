@@ -1,4 +1,4 @@
 psycopg2
-MySQL-python
+MySQL-python==1.2.5
 PyGreSQL
 DBUtils
